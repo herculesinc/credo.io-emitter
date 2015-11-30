@@ -1,0 +1,27 @@
+{
+  "name": "@credo/io-emitter",
+  "version": "0.1.0",
+  "description": "Socket.io emitter module for Credo API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/herculesinc/credo.queue-worker.git/"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "irakliy",
+    "email": "irakliy81@live.com"
+  },
+  "engines": {
+    "node": "5.0.0"
+  },
+  "devDependencies": {
+    "del": "^1.2.1",
+    "gulp": "^3.9.0"
+  },
+  "dependencies": {
+    "redis": "2.3.0",
+    "msgpack-js": "0.3.0",
+    "uid2": "0.0.3"
+  }
+}
