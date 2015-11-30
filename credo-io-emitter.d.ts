@@ -7,6 +7,7 @@ declare module "@credo/io-emitter" {
 	}
 	
 	export interface Namespace {
+		name: string;
 		in(room: string): Namespace;
 		emit(event: string, data: any);	
 	}
