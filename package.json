@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/herculesinc/credo.queue-worker.git/"
+    "url": "https://github.com/herculesinc/credo.io-emitter.git/"
   },
   "license": "MIT",
   "author": {
